@@ -3,7 +3,7 @@ const auth: {
     password: string,
 } = {
     login: 'ArturPolyakov',
-    password: 'Vzopeasw0469',
+    password: '1',
 }
 export {
     auth
